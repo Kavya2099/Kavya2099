@@ -30,6 +30,7 @@ I use Python for creating Machine Learning projects.I use Google Colab and Kaggl
 
 <div align="right">
   
+[![HitCount](http://hits.dwyl.com/Kavya2099/Kavya2099.svg)](http://hits.dwyl.com/Kavya2099/Kavya2099)
 ![ViewCount](https://views.whatilearened.today/views/github/Kavya2099/Kavya2099.svg) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
 
 </div>
