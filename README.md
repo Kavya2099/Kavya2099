@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+<p align="center">
+<img src="https://1.bp.blogspot.com/-gpPCNM2JjBs/W28oMHeNHqI/AAAAAAAX7u8/LQtL7fq0ZcsDrRicHfQJQMeFpwpLlVFMwCLcBGAs/s1600/AW1528222_00.gif" width="300" height="250" />
+</p>
+
+
+I'm a **self-taught Data Science Enthusiast** with a technical background in Testing. I'm interested in learning more about Data Science concepts. I use Python for creating Machine Learning projects.I use Google Colab and Kaggle platforms in my learning journey.
 
 <!--
 **Kavya2099/Kavya2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
