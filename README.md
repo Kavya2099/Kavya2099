@@ -14,7 +14,7 @@ I use Python for creating Machine Learning projects.I use Google Colab and Kaggl
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kavya_D-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kavya2099/)](https://www.linkedin.com/in/Kavya2099/) 
    [![Medium Badge](https://img.shields.io/badge/-Kavya_D-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@Kavya2099)](https://medium.com/@Kavya2099) 
-   [![Kaggle Badge](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kavya2099) 
+   [![Kaggle Badge](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kavya2099)](https://www.kaggle.com/kavya2099)
    [![Gmail Badge](https://img.shields.io/badge/-Kavya_D-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.kavya1999@gmail.com)](mailto:d.kavya1999@gmail.com)
   
   
