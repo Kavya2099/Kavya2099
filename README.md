@@ -16,10 +16,12 @@ I use Python for creating Machine Learning projects.I use Google Colab and Kaggl
    [![Medium Badge](https://img.shields.io/badge/-Kavya_D-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@Kavya2099)](https://medium.com/@Kavya2099) 
  [![Kaggle](https://img.shields.io/badge/Kaggle-Contributor-blue.svg)](https://www.kaggle.com/kavya2099)
 [![Gmail Badge](https://img.shields.io/badge/-Kavya_D-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.kavya1999@gmail.com)](mailto:d.kavya1999@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kavya_D-black.svg)](https://kavya2099.github.io/Portfolio/)
+
   
   
 
-### Github Stats:**
+### Github Stats: 
 
 <p align="center">
   
