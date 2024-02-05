@@ -6,9 +6,9 @@
 
 ### Hello 👋
 
-I'm a **self-taught Data Science Enthusiast** with a technical background in Testing. I'm interested in learning more about Data Science concepts. 
+I'm a **self-taught Data & AI Enthusiast** with a technical background in Testing. I'm interested in learning more about Data Science concepts. 
 
-I use Python for creating Machine Learning projects.I use Google Colab and Kaggle platforms in my learning journey.
+I use Python for creating Machine Learning projects.I use Google Colab, VS code and Kaggle platforms in my learning journey.
 
 ### Connect with me
 
